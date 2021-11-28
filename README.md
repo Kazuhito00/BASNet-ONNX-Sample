@@ -15,7 +15,9 @@ ONNXに変換したモデルも同梱しています。<br>
 * onnxruntime-gpu 1.9.0 or later <br>※onnxruntimeでも動作しますが、推論時間がかかるのでGPUをお勧めします
 
 # Demo
-デモの実行方法は以下です。
+デモの実行方法は以下です。<br>
+デモ実行前に、[Googleドライブ](https://drive.google.com/uc?id=1s52ek_4YTDRt_EOkx1FS53u-vJa0c4nu)からbasnet.pthをダウンロードし、modelディレクトリに格納してください。<br>
+basnet.pthが格納されていない場合、gdownを用いたダウンロードが実行されます(gdownインストール必要)
 ```bash
 python sample_onnx.py
 ```
