@@ -42,7 +42,7 @@ python sample_onnx.py
 デフォルト：256
 
 # Reference
-* [xuebinqin/BASNet](https://github.com/xuebinqin/BASNet)(Salient Object Detection)
+* [xuebinqin/BASNet](https://github.com/xuebinqin/BASNet)
 
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
