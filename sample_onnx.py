@@ -15,8 +15,8 @@ def get_args():
 
     parser.add_argument("--device", type=int, default=0)
     parser.add_argument("--movie", type=str, default=None)
-    parser.add_argument("--width", help='cap width', type=int, default=960)
-    parser.add_argument("--height", help='cap height', type=int, default=540)
+    parser.add_argument("--width", help='cap width', type=int, default=640)
+    parser.add_argument("--height", help='cap height', type=int, default=360)
 
     parser.add_argument("--model", type=str, default='model/basnet.onnx')
     parser.add_argument("--input_size", type=int, default=256)
