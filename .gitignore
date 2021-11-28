@@ -130,3 +130,6 @@ dmypy.json
 
 # bat
 *.bat
+
+# model/basnet.onnx
+model/basnet.onnx
