@@ -17,7 +17,7 @@ ONNXに変換したモデルも同梱しています。<br>
 
 # Demo
 デモの実行方法は以下です。<br>
-デモ実行前に、[Googleドライブ](https://drive.google.com/uc?id=1s52ek_4YTDRt_EOkx1FS53u-vJa0c4nu)からbasnet.onnxをダウンロードし、modelディレクトリに格納してください。<br>
+デモ実行前に、[Googleドライブ](https://drive.google.com/uc?id=1GG40AzPpT74GdO0jQi9L5lnS8g68TRbP)からbasnet.onnxをダウンロードし、modelディレクトリに格納してください。<br>
 basnet.onnxが格納されていない場合、gdownを用いたダウンロードが実行されます(gdownインストール必要)
 ```bash
 python sample_onnx.py
